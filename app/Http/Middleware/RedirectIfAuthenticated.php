@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace solicitud_credito\Http\Middleware;
 
-use App\Providers\RouteServiceProvider;
+use solicitud_credito\Providers\RouteServiceProvider;
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;

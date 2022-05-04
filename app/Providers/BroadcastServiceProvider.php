@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace solicitud_credito\Providers;
 
 use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\ServiceProvider;

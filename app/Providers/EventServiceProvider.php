@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace solicitud_credito\Providers;
 
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Auth\Listeners\SendEmailVerificationNotification;
